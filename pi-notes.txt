@@ -12,3 +12,9 @@ Works with Thunderbird 14.0 - 60.*
 Mẹo truy cập chéo khi chia sẻ thư mục / tệp trong mạng nội bộ cho từng user
 - Mỗi user được truy cập một thư mục.
 - Khi muốn truy cập chéo, hãy sử dụng lệnh DOS: mklink /j ( thư mục liên kết ) trong cửa sổ CMD ( command line )
+===========================================================
+Không cho phép User xóa thư mục / tệp, kể cả ổ đĩa Windows, kể cả khi chia sẻ. Nhằm đảm bảo an toàn không bị xóa nhầm
+- Properties => Security => Advanced => Permissions => Add hoặc Edit và chọn Denny cho Delete + Delete Subfolders and files
+===========================================================
+Chia sẻ nhanh thư mục / tệp Windows
+- Properties => Sharing => Advanced Sharing
