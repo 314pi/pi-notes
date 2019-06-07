@@ -33,3 +33,4 @@ Mô hình: Thư cũ trong phần mềm cũ => Gmail => Thư cũ sang phần mề
 - Copy toàn bộ email cũ ( file dạng pst ) sang Account Gmail vừa thêm
 - Cài đặt Thunderbird và thêm Account gmail nói trên vào Thunderbird để tải thư về dạng pop/imap tùy ý.
 - Copy thư vừa tải đến nơi bạn mong muốn
+Ngoài ra có thể sử dụng phần mềm: Outlook Freeware tại trang web https://www.outlookfreeware.com/en/runtime.aspx
