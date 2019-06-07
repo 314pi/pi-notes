@@ -1,10 +1,14 @@
 Enable Test Signing Mode
 bcdedit /set testsigning on
 Option Two: Use an Advanced Boot Option
-
+===========================================================
 Add_Open_command_window_here.reg
 https://www.tenforums.com/tutorials/72024-open-command-window-here-add-windows-10-a.html
-
+===========================================================
 thunderbird addons import export tools
 https://addons.thunderbird.net/en-US/thunderbird/addon/importexporttools/
 Works with Thunderbird 14.0 - 60.*
+===========================================================
+Mẹo truy cập chéo khi chia sẻ thư mục / tệp trong mạng nội bộ cho từng user
+- Mỗi user được truy cập một thư mục.
+- Khi muốn truy cập chéo, hãy sử dụng lệnh DOS: mklink /j ( thư mục liên kết ) trong cửa sổ CMD ( command line )
