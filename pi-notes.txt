@@ -22,3 +22,14 @@ Chia sẻ nhanh thư mục / tệp Windows
 Mẹo khi sử dụng Ghost windows
 - Sử dụng lệnh mklink /j để liên kết các thư mục phần mềm dạng portable nhằm tránh phải cài đặt nhiều lần, thậm chí tạo một script để thực hiện hàng loạt lệnh mklink
 Unikey với bảng gõ tắt, 
+===========================================================
+Mẹo chuyển toàn bộ thư từ hộp thư A sang hộp thư B thông qua Gmail, hoặc thư đã tải về sẵn từ bất kỳ phần mềm nào như MS Outlook.
+Mẹo chuyển đổi email pst sang mbox, hoặc bất kể dạng nào sang một dạng khác thông qua gmail.
+*) pst => mbox
+Tính huống: MS Outlook có sẵn Account với rất nhiều email cũ cần chuyển sang Thunderbird.
+Giải pháp: Tạo hoặc sử dụng một Account gmail để làm trung gian chuyển thư.
+Mô hình: Thư cũ trong phần mềm cũ => Gmail => Thư cũ sang phần mềm mới.
+- Thêm một Account IMAP gmail vào MS Outlook
+- Copy toàn bộ email cũ ( file dạng pst ) sang Account Gmail vừa thêm
+- Cài đặt Thunderbird và thêm Account gmail nói trên vào Thunderbird để tải thư về dạng pop/imap tùy ý.
+- Copy thư vừa tải đến nơi bạn mong muốn
