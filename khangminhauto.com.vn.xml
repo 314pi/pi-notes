@@ -1,0 +1,34 @@
+<clientConfig version="1.1">
+  <emailProvider id="khangminhauto.com.vn">
+    <domain>khangminhauto.com.vn</domain>
+    <displayName>Khang Minh</displayName>
+    <displayShortName>KhangMinh</displayShortName>
+    <incomingServer type="imap">
+      <hostname>mail.khangminhauto.com.vn</hostname>
+      <port>143</port>
+      <socketType>plain</socketType>
+      <authentication>password-cleartext</authentication>
+      <username>%EMAILADDRESS%</username>
+    </incomingServer>
+    <incomingServer type="pop3">
+      <hostname>mail.khangminhauto.com.vn</hostname>
+      <port>110</port>
+      <socketType>plain</socketType>
+      <authentication>password-cleartext</authentication>
+      <username>%EMAILADDRESS%</username>
+    </incomingServer>
+	<outgoingServer type="smtp">
+      <hostname>mail.khangminhauto.com.vn</hostname>
+      <port>25</port>
+      <socketType>plain</socketType>
+      <authentication>password-cleartext</authentication>
+      <username>%EMAILADDRESS%</username>
+    </outgoingServer>
+    <documentation url="mail.khangminhauto.com.vn">
+      <descr lang="en">Generic settings page</descr>
+    </documentation>
+    <documentation url="mail.khangminhauto.com.vn">
+      <descr lang="en">TB 2.0 IMAP settings</descr>
+    </documentation>
+  </emailProvider>
+</clientConfig>
