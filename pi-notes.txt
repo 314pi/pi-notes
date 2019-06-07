@@ -18,3 +18,7 @@ Không cho phép User xóa thư mục / tệp, kể cả ổ đĩa Windows, kể
 ===========================================================
 Chia sẻ nhanh thư mục / tệp Windows
 - Properties => Sharing => Advanced Sharing
+===========================================================
+Mẹo khi sử dụng Ghost windows
+- Sử dụng lệnh mklink /j để liên kết các thư mục phần mềm dạng portable nhằm tránh phải cài đặt nhiều lần, thậm chí tạo một script để thực hiện hàng loạt lệnh mklink
+Unikey với bảng gõ tắt, 
