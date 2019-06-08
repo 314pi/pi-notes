@@ -1,0 +1,51 @@
+﻿;DO NOT DELETE THIS LINE*** version=1 ***
+emc:Công Ty Cổ Phần Thiết Bị Và Ô Tô Việt Nam
+emcdc:Km9, Đường Võ Văn Kiệt, Mê Linh, Hà Nội
+emcdt:024.6287.6888
+emce:emcmst
+emcf:024.6287.6888
+emchl:kmr
+emcmst:0103026480 / 2500277476
+emcvpdc:emcvpdt
+emcvpdt:emcw
+emcw:emce
+km0:Khang Minh
+kmc:Công ty TNHH Khang Minh
+kmcdc:Tổ 4, Thị trấn Đông Anh, Huyện Đông Anh, Hà Nội
+kmcdt:024.3883.5601
+kmce:info@khangminhauto.com.vn
+kmchl:kml
+kmcmst:0101116593
+kmcvpdc:Km9, Đường Võ Văn Kiệt, Mê Linh, Hà Nội
+kmcvpdt:024.6287.6888
+kmcw:khangminhauto.com.vn
+kme:Công Ty Cổ Phần Đầu Tư - Xây Dựng - Tư Vấn Kỹ Thuật Khang Minh
+kmedc:Tổ 4, Thị Trấn Đông Anh, Huyện Đông Anh, Thành phố Hà Nội
+kmedt:024.3965.4882
+kmee:quanlykmr@khangminhauto.vn
+kmef:024.3965.4882
+kmehl:082.559.9889
+kmemst:0108612720
+kmevpdc:Km9, Đường Võ Văn Kiệt, Mê Linh, Hà Nội
+kmevpdt:024.6287.6888
+kmew:khangminhxaydung.vn
+kml:Công Ty Cổ Phần Tiếp Vận Khang Minh
+kmldc:Xóm Bãi, Xã Uy Nỗ, Huyện Đông Anh, Hà Nội
+kmldt:024.3965.4882
+kmle:quanlykmr@khangminhauto.vn
+kmlf:024.3965.2666
+kmlhl:082.559.9889
+kmlmst:0104797608
+kmlvpdc:Km9, Đường Võ Văn Kiệt, Mê Linh, Hà Nội
+kmlvpdt:024.6287.6888
+kmlw:khangminhlogistics.vn
+kmr:Công Ty Cổ Phần Cứu Hộ Giao Thông Khang Minh
+kmrdc:Xóm Bãi, Xã Uy Nỗ, Huyện Đông Anh, Thành phố Hà Nội
+kmrdt:024.6287.6888
+kmre:tongdaikmr@khangminhauto.vn
+kmrf:024.6287.6888
+kmrhl:0912.528.528
+kmrmst:0104933787
+kmrvpdc:Km9, Đường Võ Văn Kiệt, Mê Linh, Hà Nội
+kmrvpdt:024.6287.6888
+kmrw:xecuuho.vn
