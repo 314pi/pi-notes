@@ -34,3 +34,7 @@ Mô hình: Thư cũ trong phần mềm cũ => Gmail => Thư cũ sang phần mề
 - Cài đặt Thunderbird và thêm Account gmail nói trên vào Thunderbird để tải thư về dạng pop/imap tùy ý.
 - Copy thư vừa tải đến nơi bạn mong muốn
 Ngoài ra có thể sử dụng phần mềm: Outlook Freeware tại trang web https://www.outlookfreeware.com/en/runtime.aspx
+===========================================================
+Tìm kiếm thông tin đấu thầu từ trang web http://muasamcong.mpi.gov.vn/
+- Từ khóa theo lĩnh vực kinh doanh của Công ty TNHH Khang Minh:
++ rác, cẩu, quét, cuốn ép, gom rác, 
