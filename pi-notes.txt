@@ -45,3 +45,64 @@ Kính gửi: Quý Anh / chị,
 Hiện nay, tôi sử dụng địa chỉ hộp thư mới là: it@khangminhauto.com.vn
 Quý Anh / chị vui lòng liên hệ với tôi theo địa chỉ hộp thư nói trên. 
 Xin chân thành cảm ơn !
+===========================================================
+Website công cụ Windows tiện ích hữu dụng hiệu quả
+https://www.sordum.org/
+bảo vệ usb dns admin tường lửa backup menu ip qemu webcam service 
+
+    Dns jumper - 2378009
+    Easy Context Menu - 272182
+    Windows Update Blocker - 236293
+    Firewall App Blocker - 232617
+    Easy Service Optimizer - 211021
+    BlueLife Hosts Editor - 187778
+    ReIcon - 176569
+    DNS Angel - 161819
+    Ratool - 116431
+    Ntfs Drive Protection - 115140
+    Qemu Simple Boot - 113730
+    WebCam On-Off - 105380
+    AskAdmin - 102781
+    Defender Control - 97126
+    Edge Blocker - 89154
+    6to4 Remover - 86120
+    Reg Converter - 69855
+    RunAsTool - 67655
+    BlueLife KeyFreeze - 66762
+    Simple Run Blocker - 63059
+    Reduce Memory - 52386
+    Drive Letter Changer - 50912
+    Router Default Passwords - 46485
+    PowerRun - 40459
+    Registry Key Jumper - 34082
+    Simple VHD Manager - 29140
+    SendTo Menu Editor - 10789
+	
+    Show Disk Partition Style - 51349
+    Folder Painter - 33761
+    Temp Cleaner - 20230
+    Net Disabler - 17264
+    Rebuild Shell Icon Cache - 17168
+    Dns Lock - 14753
+    Update Time - 13483
+    Restart Explorer - 13140
+    Bpuzzle - 12580
+    Windows TopMost Control - 12300
+    Fix Print Spooler - 12270
+    Reset Data Usage - 10780
+    Defender Injector - 10127
+    Copy IP - 9350
+    Shut Down Windows - 9066
+    Bluetooth Version Finder - 8946
+    Hibernate - Enable or Disable - 7900
+    Win10 Settings Blocker - 6966
+    Backup Start Menu Layout - 6920
+    VHD For Context Menu - 6825
+    Show Desktop Icons - 5746
+    Desktop.ini Editor - 5590
+    Find Prime Numbers - 4987
+    Sordum Monitor Off - 4618
+    Random Password Generator - 4153
+    Hide From Uninstall List - 2784
+    Streams Remover - 1995
+===========================================================
