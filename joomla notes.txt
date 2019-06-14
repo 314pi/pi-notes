@@ -15,3 +15,4 @@ Note: If you want to use this content plugin inside a Custom HTML Modules, pleas
 ===========================================================
 http://www.dynamicdrive.com/
 Các script hữu ích cho website, rất nhiều mẫu sample css java script js calendar 
+favi icon editor FavIcon Generator .htaccess Banning, .htaccess Password, Animated Gif, Button Maker, DD Whois Service, Email Riddler, FavIcon Editor, FavIcon Generator, Gradient Image, Image Optimizer, Image to Base64 String, List Scrubber Tool, Ribbon Rules, Web Tools
