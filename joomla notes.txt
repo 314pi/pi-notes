@@ -12,6 +12,15 @@ This plugin allows direct embedding of PHP commands right inside Joomla content 
 Available for all Joomla versions: Joomla 1.0.x, native 1.5.x, 1.6.x, 1.7.x,2.5.x and 3.0.x!
 
 Note: If you want to use this content plugin inside a Custom HTML Modules, please refer to this article: How to Run Joomla Content Plugins in Custom HTML Modules.
+Title		Hits	
+googleMaps plugin 	Hits: 1089458
+Google Currency Converter - AJAX version 	Hits: 669465
+kksou Joomla Weather Module (formerly Google Weather Module) - AJAX and built-in cache version 	Hits: 596565
+googleDirections plugin 	Hits: 237070
+googleDirections - To Here - plugin 	Hits: 213274
+googleSearch (CSE) component 	Hits: 200560
+googleMaps module 	Hits: 81119
+googleSearch (CSE) module 	Hits: 46391 
 ===========================================================
 http://www.dynamicdrive.com/
 Các script hữu ích cho website, rất nhiều mẫu sample css java script js calendar 
