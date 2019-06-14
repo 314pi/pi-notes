@@ -4,3 +4,14 @@ https://www.jetbrains.com/products.html#
 https://www.remove.bg/ xoa hinh nen online
 https://www.photopea.com/ photoshope online
 https://quantrimang.com/nhung-phan-mem-thay-the-photoshop-xuat-sac-nhat-80157
+===========================================================
+DirectPHP plugin
+https://www.kksou.com/php-gtk2/joomla/directphp-plugin.php#download
+This plugin allows direct embedding of PHP commands right inside Joomla content page for dynamic contents.
+
+Available for all Joomla versions: Joomla 1.0.x, native 1.5.x, 1.6.x, 1.7.x,2.5.x and 3.0.x!
+
+Note: If you want to use this content plugin inside a Custom HTML Modules, please refer to this article: How to Run Joomla Content Plugins in Custom HTML Modules.
+===========================================================
+http://www.dynamicdrive.com/
+Các script hữu ích cho website, rất nhiều mẫu sample css java script js calendar 
