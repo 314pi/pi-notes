@@ -139,3 +139,15 @@ https://www.cyotek.com/
 website copy offline httrack
 Cyotek WebCopy is a free tool for copying full or partial websites locally onto your harddisk for offline viewing.
 WebCopy will scan the specified website and download its content onto your harddisk. Links to resources such as style-sheets, images, and other pages in the website will automatically be remapped to match the local path. Using its extensive configuration you can define which parts of a website will be copied and how.
+===========================================================
+From command prompt (run as administrator): 
+rundll32.exe keymgr.dll, KRShowKeyMgr
+-- Then select any network share to clear credentials for, then click delete button. (no network shares listed). From command prompt (run as administrator): control userpasswords2 - Go to advanced tab; click on manage passwords
+Opening Windows Credential Manager with the Command Prompt
+
+You can also open the Windows Credential Manager with the Command Prompt. Press the Win + X hotkey and select Command Prompt from the menu to open it.
+Next, input ‘rundll32.exe keymgr.dll, KRShowKeyMgr’ into the Command Prompt and press Enter to open the window in the snapshot directly below.
+
+Open Run Window by clicking Start -> Run or click ‘Windows key’+‘R’.
+In the text box, type the command rundll32.exe keymgr.dll, KRShowKeyMgr and click OK. Note:You can also type and run this command through Command Prompt.
+You could see the Stored Usernames and Passwords window after run the command.
