@@ -134,3 +134,8 @@ Phòng chất lượng xe cơ giới
 Địa chỉ : 18 - Đường Phạm Hùng - Phường Mỹ Đình 2 - Quận Nam Từ Liêm - Hà Nội
 Điện thoại : (84.04) 7684715. FAX: (84.04) 7684730, (84.04) 7684773 . Email: VAQ@vr.org.vn Website : http://www.vr.org.vn/vaq
   	© Copyright by VAQ 2002 - Informatic Group
+===========================================================
+https://www.cyotek.com/
+website copy offline httrack
+Cyotek WebCopy is a free tool for copying full or partial websites locally onto your harddisk for offline viewing.
+WebCopy will scan the specified website and download its content onto your harddisk. Links to resources such as style-sheets, images, and other pages in the website will automatically be remapped to match the local path. Using its extensive configuration you can define which parts of a website will be copied and how.
