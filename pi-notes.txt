@@ -151,3 +151,16 @@ Next, input ‘rundll32.exe keymgr.dll, KRShowKeyMgr’ into the Command Prompt 
 Open Run Window by clicking Start -> Run or click ‘Windows key’+‘R’.
 In the text box, type the command rundll32.exe keymgr.dll, KRShowKeyMgr and click OK. Note:You can also type and run this command through Command Prompt.
 You could see the Stored Usernames and Passwords window after run the command.
+===========================================================
+http://dimio.altervista.org/eng/
+ DSpeech 	DSynchronize 	Deep Explorer 	DShutdown 	HDHacker 	Double Finder 	DCleaner 	DTaskManager
+===========================================================
+http://www.boozet.org/dd.htm
+One of the main reasons why you would want to collect installed drivers is if you don’t have the Driver CD that came with the computer or they are unavailable online. This comes in quite handy if you purchase a computer and want to backup the initial set of drivers. It can be quite difficulty for example to find drivers for hardware installed in a notebook if the operating system has to be setup again. Luckily Double Driver can now lend you a hand with that and save you a lot of time.
+Double Driver is a very simple and useful tool which not only allows you to view all the drivers installed on your system but also allows you to backup, restore, save and print all chosen drivers.
+Double Driver analyzes your system and lists the most important driver details such as version, date, provider, etc. All drivers that are found can easily be backed up the application and easily restored at a later point in one go.
+Double Driver is freeware. Feel free to use and give this program to anyone you know. Your donation or feedback would be greatly appreciated.
+===========================================================
+https://xepher.net/help.php
+Free Hosting for Free Thinkers
+It's a simple idea. If you have something you want to share with the world, talk to me. I'm looking for people who will provide original, creative content on a regular or semi-regular basis. This includes the obvious things such as comics/manga, written stories, and art galleries, but I'm open minded, so plenty of other ideas may accepted as well. The main thing is that all sites should provide something interesting, and should update semi-frequently. Static "archive" sites may be allowed, but only if they provide a decently large amount of content to begin with.
