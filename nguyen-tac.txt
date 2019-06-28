@@ -1,0 +1,7 @@
+Đối với máy tính
+1. Kiểm tra nguyên tắc đối với thiết bị điện
+2. Kiểm tra giờ hệ thống ( rất nhiều phần mềm trong đó có Thư điện tử ) hoạt động dựa trên giờ đúng
+===========================================================
+Đối với thiết bị điện
+1. Kiểm tra nguồn
+2. 
