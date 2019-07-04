@@ -167,3 +167,6 @@ https://xepher.net/help.php
 Free Hosting for Free Thinkers
 It's a simple idea. If you have something you want to share with the world, talk to me. I'm looking for people who will provide original, creative content on a regular or semi-regular basis. This includes the obvious things such as comics/manga, written stories, and art galleries, but I'm open minded, so plenty of other ideas may accepted as well. The main thing is that all sites should provide something interesting, and should update semi-frequently. Static "archive" sites may be allowed, but only if they provide a decently large amount of content to begin with.
 ===========================================================
+http://www.timesynctool.com/
+NetTime is a Simple Network Time Protocol (SNTP) client for Windows 95/98/Me/NT/2000/XP/Vista/7/8/10 and Server 2003/2008/2012/2016. (32 bit and 64 bit operating systems are both supported)
+If you're looking for a program to keep your system time accurate, you've just found it! 
