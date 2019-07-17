@@ -2,7 +2,7 @@ http://muasamcong.mpi.gov.vn/
 ms. Thy			0368.160.089
 
 kmr tong dai
-ultraview		17806562
+ultraview		17806562 / 17806562
 mac				
 sdt				0246-284-9999
 
@@ -40,6 +40,7 @@ Mr. Tài			0338-433-215
 Mr. Chính LX	0989-99-66-11
 ms. Phương		0983-910-480
 ms. Hà			0972-207-874 / UltraView: 19609363
+mr. Trường		0936-252-925
 =======================
 VNPT Me Linh	0917.609.196
 Viettel Phone:	1800-8119
@@ -74,3 +75,6 @@ Website: http://www.khangminhauto.com.vn
 ------------------------------------------------------------------------
 Cuongkmc@1974
 ip: 14.177.232.127
+------------------------------------------------------------------------
+Logo Email KMC
+http://khangminhauto.com.vn/logos/kmclogoemail.png
