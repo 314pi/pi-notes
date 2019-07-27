@@ -197,3 +197,21 @@ WebServers_conf_editor
 	AllowOverride All Options=ExecCGI,Includes,IncludesNOEXEC,Indexes,MultiViews,SymLinksIfOwnerMatch,FollowSymLinks
 </Directory>
 Chú ý: Kiểm tra Error Log Viewer để kiểm tra lỗi Apache, ... file .htaccess FollowSymlinks
+==============
+https cwp
+SetEnvIf X-Forwarded-Proto "https" HTTPS=on
+RewriteEngine on
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP:X-Forwarded-Proto} !https [NC]
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+Link: https://www.mysterydata.com/apache-http-to-https-htaccess-redirect-on-cwp-centos-webpanel/
+Using Apache as backend server behind NGINX/VARNISH server :
+This need to be added in your sites .htaccess :
+
+Rewrite rule as follows, this need to be added in your sites .htaccess :
+
+SetEnvIf X-Forwarded-Proto "https" HTTPS=on
+RewriteEngine on
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP:X-Forwarded-Proto} !https [NC]
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
