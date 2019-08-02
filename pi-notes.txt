@@ -215,3 +215,6 @@ RewriteEngine on
 RewriteCond %{HTTPS} !=on
 RewriteCond %{HTTP:X-Forwarded-Proto} !https [NC]
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+=================================
+Thư viện sách truyện, sách hay tiếng anh tiểu thuyết giáo trình
+http://www.tinhvi.com/?id=lib&db=0
