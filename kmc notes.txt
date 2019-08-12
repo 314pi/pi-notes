@@ -96,3 +96,11 @@ Viettel			1800-8119 Cố định
 	IDC			1800-8088 Host
 DS SĐT KMC 		6287-[ 658( 2 3 5 6 7 ) + 6888 ]
 KX-TES824 TID 	0243-972-8888 ( 0989-469-827 Trọng )
+=======================
+Một số lệnh command line
+rundll32.exe keymgr.dll, KRShowKeyMgr
+net use * /DELETE
+netplwiz
+control userpasswords2 
+Rundll32.exe User32.dll,LockWorkStation
+net use Z: \\ip\share pass user:user
