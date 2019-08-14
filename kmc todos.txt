@@ -1,2 +1,86 @@
-Chặn Gmail Yahoo Mail: Loan + Hằng + Máy chủ + Thái + Tài + XNK + 
-Tập hợp tài liệu cung cấp cho CQ CA
+Chặn Gmail Yahoo Mail: Loan + Hằng + Máy chủ + Thái + Tài + XNK + TCHC + Nguyệt + Thy + 
+Tập hợp tài liệu cung cấp cho CQ CA => ms. Quận ( OK )
+=================================================
+Việc hàng ngày
+Từ 15/3/2019
+Máy tính mạng nội bộ
+	IP tĩnh
+	IP động
+	Wifi
+	Switch
+	Bấm dây mạng
+	Bảo mật
+	Cài đặt máy in
+	Scan PDF, ảnh, 
+	Ghost, sao lưu
+	USB Boot Ease2boot E2B
+Máy chủ chia sẻ dữ liệu
+	Bảo mật
+	IP tĩnh
+	Chia sẻ thư mục theo từng User
+	Chia sẻ chéo mklink /?
+	Sao lưu dữ liệu định kỳ
+	Quét và diệt virus
+	Ghost sao lưu hệ điều hành
+	Windows 7 Lite Super
+	Dữ liệu + Email đặt trên máy chủ dữ liệu
+	Map ổ cứng mạng nội bộ: net use
+	Tự động hóa bằng các script, batch
+Máy in Canon 2900
+	Theo dõi
+	Đổ mực
+	Xử lý sự cố
+	Kết nối in nội bộ
+Máy photo Xerox DC III 2007
+	Đổ mực
+	Thay hộp trống mực
+	Quản lý số bản in
+	Xử lý sự cố
+	Kết nối wifi để in không dây
+Tổng đài KX-TES 824
+	06 đường điện thoại 0243-6287-(658[2,3,5,6,7]+6888)
+	Các số nội bộ 123,115,162,163,116,124, ...
+	Bấm dây điện thoại
+Modem Huawei HG8045A
+	Khắc phục sự cố mất kết nối
+	Quản lý IP tĩnh, động
+	Bảo mật mạng nội bộ
+Wifi nội bộ
+	Wifi dành riêng cho khách
+	Wifi nội bộ
+	Quản lý
+	Bảo mật
+Email theo tên miền
+	Quản lý
+	Sao lưu
+	Thiết lập Thunderbird
+		Sổ địa chỉ tự động cập nhật, lưu trên server web
+		Tự động thu nhỏ xuống khay hệ thống
+		POP / IMAP
+	Xử lý spam
+	Hộp thư đầy
+	Tự động Forward + lưu lại bản sao
+	Quản lý dung lượng từng hộp thư
+	Cước
+Máy chấm công
+	D08G + wiseeye39
+	Chia 3 ca 8 giờ, 2 ca 12 giờ, hành chính, khác
+	Kết xuất dữ liệu
+	Khắc phục sự cố, lỗi phần mềm, phần cứng
+	Quản lý nhân sự, công, vân tay, ...
+Website
+	Lập web mới
+	Quản lý web cũ
+	Đăng bài
+	Host
+	Domain
+	Cước
+	Joomla
+	Wordpress
+	Trao đổi view Hitleap tăng lượng truy cập
+	SEO
+Khác
+	Profile công ty
+	Hỗ trợ CBCNV công ty Ofice + Windows
+Từ 15/8/209 - Cộng
+
