@@ -57,6 +57,7 @@ Email theo tên miền
 		Sổ địa chỉ tự động cập nhật, lưu trên server web
 		Tự động thu nhỏ xuống khay hệ thống
 		POP / IMAP
+	Thiết lập MS Outloook
 	Xử lý spam
 	Hộp thư đầy
 	Tự động Forward + lưu lại bản sao
@@ -79,8 +80,18 @@ Website
 	Wordpress
 	Trao đổi view Hitleap tăng lượng truy cập
 	SEO
+Nhà máy, xưởng dịch vụ
+	Ultra View
+	Máy chấm công
+	Mạng nội bộ
+	Internet
+	Máy in A3
 Khác
 	Profile công ty
-	Hỗ trợ CBCNV công ty Ofice + Windows
+	Hỗ trợ CBCNV công ty Office + Windows
+	In màu
+	Vệ sinh, sửa chữa main, chuột, bàn phím, bộ nguồn, máy in, máy photo
+	Hỗ trợ kinh doanh, XNK
+	
 Từ 15/8/209 - Cộng
 
