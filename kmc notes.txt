@@ -1,28 +1,25 @@
 =======================
 http://muasamcong.mpi.gov.vn/
-ms. Thy			0368.160.089
 
 kmr tong dai
-ultraview		17806562 / 17806562
+ultraview		17806562
 mac				
-sdt				0246-284-9999
-
-ms. Phương TĐ	032-808-7746
+sdt				024-6284-9999
 =======================
-kmc pc
+Máy chủ
 ultraview		27116477 / 20050329
 mac				
 =======================
-kmc m1
-ultraview: 		18119402
+KMC IT
+ultraview: 		27 319 131
 mac: 			10-78-D2-13-FA-40
 =======================
-ms. Lieu		
+HCNS KMR 		
 ultraview		12819853
 mac
 =======================
-ms. My			
-ultraview		19422483
+Kế toán KMR 
+ultraview		19456062
 mac
 =======================
 mr. Hung
@@ -32,6 +29,8 @@ mac
 ms. Phuong
 ultraview		19105608
 mac
+=======================
+KMC kế toán 4	18 111 836
 =======================
 mr. Huy			096.8811.876 / 0941.346.403
 mr. Xuân		0943.028.989
@@ -48,6 +47,8 @@ ms. Hà			0972-207-874 / UltraView: 19609363
 mr. Trường		0936-252-925 / 4329589
 Ngọc KME 		0978.510.699
 ms. Quận		0948.238.836
+ms. Thy			0368.160.089
+ms. Phương TĐ	032-808-7746
 =======================
 VNPT Me Linh	0917.609.196
 Viettel Phone:	1800-8119
