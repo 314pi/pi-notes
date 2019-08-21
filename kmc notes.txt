@@ -18,6 +18,9 @@ HCNS KMR
 ultraview		12819853
 mac
 =======================
+quanly KMR 
+ultraview		
+=======================
 Kế toán KMR 
 ultraview		19456062
 mac
@@ -105,3 +108,4 @@ netplwiz
 control userpasswords2 
 Rundll32.exe User32.dll,LockWorkStation
 net use Z: \\ip\share pass user:user
+REG add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System /v DisableRegistryTools /t REG_DWORD /d 0 /f

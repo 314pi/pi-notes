@@ -1,4 +1,4 @@
-Chặn Gmail Yahoo Mail: Loan + Hằng + Máy chủ + Thái + Tài + XNK + TCHC + Nguyệt + Thy + Kế toán Liễu kmr + 
+Chặn Gmail Yahoo Mail: Loan + Hằng + Máy chủ + Thái + Tài + XNK + TCHC + Nguyệt + Thy + Kế toán Liễu kmr + Liễu HCNS + 
 Tập hợp tài liệu cung cấp cho CQ CA => ms. Quận ( OK )
 =================================================
 Việc hàng ngày
@@ -15,6 +15,7 @@ Máy tính mạng nội bộ
 	Ghost, sao lưu
 	USB Boot Ease2boot E2B
 Máy chủ chia sẻ dữ liệu
+	Cứu hộ, khôi phục dữ liệu bị xóa, mất
 	Bảo mật
 	IP tĩnh
 	Chia sẻ thư mục theo từng User
