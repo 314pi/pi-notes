@@ -71,5 +71,3 @@ wf1:kmc_1qaz
 wf2:kmc_2wsx
 wf0:1qaz2wsx
 ;==========================================================
-dcgm:Đánh cắp giấc mơ tập
-dcgm1:Danh cap giac mo tap
