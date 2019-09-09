@@ -218,3 +218,11 @@ RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 =================================
 Thư viện sách truyện, sách hay tiếng anh tiểu thuyết giáo trình
 http://www.tinhvi.com/?id=lib&db=0
+=================================
+https://www.trangtrang.com
+Trang trắng - Danh bạ điện thoại kể cả di động
+=================================
+Máy tính bị mất explorer, sửa bằng Regedit
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+"Shell"="explorer.exe"
