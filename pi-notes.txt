@@ -226,3 +226,16 @@ Máy tính bị mất explorer, sửa bằng Regedit
 Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
 "Shell"="explorer.exe"
+=================================
+Renamer:
+--------
+Thumbs.db		/ Xóa
+~$ 				/ Xóa
+~WRL .tmp 		/ Xóa
+*.tmp 			/ Xóa
+*.chk			/ Xóa
+*.dmp			/ Xóa
+.bash_logout	/ Xóa
+.bashrc
+.bash_profile
+Tên tiếng Việt
