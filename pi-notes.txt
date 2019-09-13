@@ -239,3 +239,9 @@ Thumbs.db		/ Xóa
 .bashrc
 .bash_profile
 Tên tiếng Việt
+=================================
+Thunderbird Shortcut keys
+For example Dorando Keyconfig
+Add new key, name it, check as global, and add following code:
+goDoCommand('cmd_toggleFolderPane');
+and set a keyboard shortcut to new key.
