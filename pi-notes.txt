@@ -245,3 +245,6 @@ For example Dorando Keyconfig
 Add new key, name it, check as global, and add following code:
 goDoCommand('cmd_toggleFolderPane');
 and set a keyboard shortcut to new key.
+=================================
+BKAV Pro Xóa file chiếm dụng ổ cứng
+C:\Users\kmc\AppData\Roaming\Bkav
