@@ -251,3 +251,13 @@ C:\Users\kmc\AppData\Roaming\Bkav
 =================================
 Phần mềm gia phả + phần mềm kiểm tra trắc nghiệm
 https://dontruongbt.wordpress.com/2015/12/09/phanmemquanlygiapha/
+=================================
+FullAjax plugin	Joomla
+https://getsite.org.ua/en/tag/fullajax-plugin
+https://github.com/Fedik/FullAJAX
+=================================
+BHXH Việt Nam Hà Nội Tra Cứu
+https://baohiemxahoi.gov.vn/tracuu/Pages/tra-cuu-dong-bao-hiem.aspx
+=================================
+This will tell you every file that exceeds the windows length limitation. Just replace the <SourceDir> with the ROOT Folder path you want scanned: File name too long fix power shell
+powershell.exe cmd /c dir <SourceDir> /s /b /a |? {$_.length -gt 260}|Out-File C:\Too_Long.txt -width 300
