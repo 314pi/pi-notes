@@ -73,6 +73,7 @@ Nguyễn Toàn Thắng	IT	0986.288.418
 Đỗ Phúc Thắng		IT	0966.512.990
 Nguyễn Quang Tuấn	IT	
 Trần Quang Minh		IT	0354.886.996
+Lỗ văn Long IT			0374.638.603 @2015
 Ms. Hạnh In		0976.293.889
 Mr. Đại	In		0977.091.838	Tạ Minh Đại
 Tiến A&Z		0962.122.121 Camera + Mực in
@@ -122,3 +123,7 @@ control userpasswords2
 Rundll32.exe User32.dll,LockWorkStation
 net use Z: \\ip\share pass user:user
 REG add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System /v DisableRegistryTools /t REG_DWORD /d 0 /f
+=======================
+19/9/2019: Tiếp khách >03
+20/9/2019: Tiếp khách =01
+23/9/2019	Tiếp khách =02 Đăng Kiểm + ?
