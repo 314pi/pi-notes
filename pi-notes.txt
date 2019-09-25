@@ -227,19 +227,6 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
 "Shell"="explorer.exe"
 =================================
-Renamer:
---------
-Thumbs.db		/ Xóa
-~$ 				/ Xóa
-~WRL .tmp 		/ Xóa
-*.tmp 			/ Xóa
-*.chk			/ Xóa
-*.dmp			/ Xóa
-.bash_logout	/ Xóa
-.bashrc
-.bash_profile
-Tên tiếng Việt
-=================================
 Thunderbird Shortcut keys
 For example Dorando Keyconfig
 Add new key, name it, check as global, and add following code:
@@ -261,3 +248,10 @@ https://baohiemxahoi.gov.vn/tracuu/Pages/tra-cuu-dong-bao-hiem.aspx
 =================================
 This will tell you every file that exceeds the windows length limitation. Just replace the <SourceDir> with the ROOT Folder path you want scanned: File name too long fix power shell
 powershell.exe cmd /c dir <SourceDir> /s /b /a |? {$_.length -gt 260}|Out-File C:\Too_Long.txt -width 300
+=================================
+Tổng Cục Thống Kê: http://www.gso.gov.vn/dmhc2015/
+https://www.gso.gov.vn/dmhc2015/
+https://www.gso.gov.vn
+=================================
+https://github.com/duyetdev?tab=repositories
+Van-Duyet Le duyetdev
