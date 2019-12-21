@@ -259,3 +259,7 @@ Van-Duyet Le duyetdev
 =================================
 AHK scripts
 https://github.com/jNizM
+=================================
+https://quantrimang.com/dia-cuu-ho-windows-pe-co-the-khoi-dong-165070
+Giải cứu hệ thống với 5 đĩa khôi phục Windows PE có thể khởi động này 
+Nhiều đĩa cứu hộ Windows sử dụng môi trường Linux nhưng cũng có đĩa khôi phục sử dụng Windows Preinstallation Environment (PE). Đĩa cứu hộ Windows PE có môi trường làm việc tương tự, hỗ trợ phần cứng tuyệt vời và cung cấp các phần mềm giúp sửa chữa hệ thống
