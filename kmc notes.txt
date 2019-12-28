@@ -139,3 +139,6 @@ REG add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System /v Disabl
 19/9/2019	Tiếp khách >03
 20/9/2019	Tiếp khách =01
 23/9/2019	Tiếp khách =02 Đăng Kiểm + ?
+=======================
+Giang Kính mạnh tuyển: 14495697 / 
+Hường					19038508	
