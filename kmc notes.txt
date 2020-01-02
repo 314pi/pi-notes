@@ -1,3 +1,12 @@
+mCC: Tổng đài di động Viettel 18008000 (ext. 6)
+	Gọi nội bộ: 1599 + Số máy thành viên ( nên cho vào danh bạ và gán phím nóng )
+	Gọi ra ngoài: 1599 + Số cần gọi
+	Chuyển nhánh: *(số nhánh)# => Ví dụ: *2#
+	Nhánh mặc định: 1  ( từ giây 00 -> 45 )
+	Nhánh tiếp theo: 2 ( Từ giây 45 -> ...)
+	Nhánh tiếp theo: 3 ( Từ giây 
+
+=======================
 Google Adwords: 1228-9294 / 024-4458-3180
 =======================
 pc-pc	27621706 / 28636001 ! / 1q->x 
@@ -116,7 +125,7 @@ Logo Email KMC
 http://khangminhauto.com.vn/logos/kmclogoemail.png
 =======================
 Hỗ trợ
-NM ĐA MEN: 		001-072-166
+NM ĐA MEN: 		001-072-166 / 000-472-514 ( 024.3883.2218 - 024.3883.2260 )
 VPML MEN: 		001-136-979
 Hỗ trợ VNPT: 	024-800-126 / 090179-090196 / 094.657.3225 / 0917.609.196 / 024.3990.3021
 	Host		1800-1261
@@ -126,6 +135,7 @@ Viettel			1800-8119 Cố định
 	IDC			1800-8088 Host
 DS SĐT KMC 		6287-[ 658( 2 3 5 6 7 ) + 6888 ]
 KX-TES824 TID 	0243-972-8888 ( 0989-469-827 Trọng )
+GPS Bình Anh	1900-6464
 =======================
 Một số lệnh command line
 rundll32.exe keymgr.dll, KRShowKeyMgr
