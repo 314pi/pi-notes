@@ -152,3 +152,5 @@ REG add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System /v Disabl
 =======================
 Giang Kính mạnh tuyển: 14495697 / 
 Hường					19038508	
+=======================
+Đặng Phương / Ultra: 27512154 / Vagex: @471917 / Honeygain / 
