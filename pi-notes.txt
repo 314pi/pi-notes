@@ -1,5 +1,14 @@
+Hạn chế không cho User đăng nhập trên máy tính, chỉ dùng để chia sẻ file
+As the reply of joeqwerty is not clear, I want to put the steps in line. This works for Windows 7, 8, and 10 (I'm on 10), as well as Windows Server 2003, 2008, and 2012.
+Create the user (if you don't have it created already, and check this if you want it local on W10) from users, or Computer Management, whatever you like more.
+Open Administrative Tools, then go to Local Security Policy, and go to Local Policies > User Rights Assignment
+From there, look for the policy called Deny log on locally. Double click it and add the username that you just created to that list.
+You can also add the user to Deny log on through Terminal Services option, which will be shown on Windows Server. You can also add the user to Deny log on through Remote Desktop Services which will be covered with the logon option, but just in case.
+===========================================================
+https://openlibrary.org/
+Thư viện sách toàn thế giới
+===========================================================
 Prolific.co
-
 Fluidstack Nodes:
 0b833be1-f674-4873-a314-82248d704481 @ 21/02/2020 / dashboard/node/a364a3fb-678b-5f12-863e-65a9a897be1a
 https://provider.fluidstack.io/dashboard/node/a364a3fb-678b-5f12-863e-65a9a897be1a / fd028eec-5704-4087-ac11-614eb041c0eb
