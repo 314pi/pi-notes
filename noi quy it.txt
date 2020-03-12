@@ -1,11 +1,11 @@
 Chỉ khi ký HĐLĐ chính thức: Khi đó như E đã biết và có quy định rồi.
-Các máy tính CBCNV vừa nghỉ việc, thì khi bàn giao cho NV mới, E phải sao chép dữ liệu máy tính đó sang ổ cứng lưu trữ cty, còn chỉ để lại trong máy các dữ liệu liên quan đến trực tiếp CV của NV đó khi chịu đúng trách nhiệm trong phạm vi công việc được giao.
-E tìm cách chặn hoặc để mạng cty kg thể truy cập đc các hộp thư Gmail, Yahoo.
-E để một máy riêng lẻ không kết nối dữ liệu public, kg dữ liệu gì: Để các bạ đó xem thông tin các SP của cty.
-Kg đc bàn giao máy tính của bộ phận này cho người của bộ phận khác dùng.
-Kiểm soát, rà soát lại các trang mạng liên quan đến cty lập để kinh doanh, các trang web của cty: Lọc ra các trang nào dùng, trang nào kg có ai quản trị, quản lý thì bỏ đi.
+Các máy tính CBCNV vừa nghỉ việc, thì khi bàn giao cho NV mới, E phải sao chép dữ liệu máy tính đó sang ổ cứng lưu trữ công ty, còn chỉ để lại trong máy các dữ liệu liên quan đến trực tiếp CV của NV đó khi chịu đúng trách nhiệm trong phạm vi công việc được giao.
+Tìm cách chặn hoặc để mạng công ty kg thể truy cập đc các hộp thư Gmail, Yahoo.
+Để một máy riêng lẻ không kết nối dữ liệu public, không dữ liệu gì: Để các bạn đó xem thông tin các SP của công ty.
+Không được bàn giao máy tính của bộ phận này cho người của bộ phận khác dùng.
+Kiểm soát, rà soát lại các trang mạng liên quan đến công ty lập để kinh doanh, các trang web của công ty: Lọc ra các trang nào dùng, trang nào kg có ai quản trị, quản lý thì bỏ đi.
 Máy tính của bộ phận XNK (importexport) hiện tại chưa có CB chuyên trách thì ngoài trừ ms Xuân đc phép mở hộp thư cũng như máy đó, còn lại nghiêm cấm sử dụng hay đọc thông tin tại hộp thư, cũng như máy tính đó.
-Ngày hôm qua, A đã nói E kiểm tra lại các hộp thư của cty để khi có thư đến, thư đi A đều năm đc thông qua việc FW vào email của a.
-Sau khi làm việc tại cty đc 5 ngày trở lên sẽ giao máy tính để dùng: Nhưng những máy đó cũng kg đc kết nối dữ liệu public, hay dữ liệu khác của cty, ngoài ra kg kết nối các trang liên quan đến Báo, chí (tránh đọc báo, giết thời gian lại kg làm gì).
-Đối với CBCNV mới thì khi đc giao sử dụng máy tính của cty trong thời gian thử việc kể cả khi đã ký HĐLĐ chính thức, muốn truy cập dữ liệu nội bộ của cty thì phải có đề xuất và phê duyệt của anh.
-Đối với CBCNV đang LV nhưng đã có đơn xin nghỉ, ngay lập tức sau khi A ký chấp nhận đơn thì E chủ động ngừng kết nối mạng nội bộ, tránh mất cắp dữ liệu cty, hoặc ảnh hưởng đến CV của CBCNV đg làm việc tại cty.
+Ngày hôm qua, A đã nói E kiểm tra lại các hộp thư của công ty để khi có thư đến, thư đi A đều năm đc thông qua việc FW vào email của a.
+Sau khi làm việc tại công ty đc 5 ngày trở lên sẽ giao máy tính để dùng: Nhưng những máy đó cũng kg đc kết nối dữ liệu public, hay dữ liệu khác của công ty, ngoài ra kg kết nối các trang liên quan đến Báo, chí (tránh đọc báo, giết thời gian lại kg làm gì).
+Đối với CBCNV mới thì khi đc giao sử dụng máy tính của công ty trong thời gian thử việc kể cả khi đã ký HĐLĐ chính thức, muốn truy cập dữ liệu nội bộ của công ty thì phải có đề xuất và phê duyệt của anh.
+Đối với CBCNV đang LV nhưng đã có đơn xin nghỉ, ngay lập tức sau khi A ký chấp nhận đơn thì E chủ động ngừng kết nối mạng nội bộ, tránh mất cắp dữ liệu công ty, hoặc ảnh hưởng đến CV của CBCNV đg làm việc tại công ty.
