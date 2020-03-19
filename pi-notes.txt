@@ -1,3 +1,5 @@
+http://khophanmem.vn
+===========================================================
 Hạn chế không cho User đăng nhập trên máy tính, chỉ dùng để chia sẻ file
 As the reply of joeqwerty is not clear, I want to put the steps in line. This works for Windows 7, 8, and 10 (I'm on 10), as well as Windows Server 2003, 2008, and 2012.
 Create the user (if you don't have it created already, and check this if you want it local on W10) from users, or Computer Management, whatever you like more.
