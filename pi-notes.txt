@@ -1,3 +1,5 @@
+Backup dùng RoboCopy /?
+===========================================================
 http://khophanmem.vn
 ===========================================================
 Hạn chế không cho User đăng nhập trên máy tính, chỉ dùng để chia sẻ file
